@@ -1,4 +1,4 @@
-#require 'pry'
+require 'pry'
 
 class School
   
@@ -19,5 +19,9 @@ class School
     #binding.pry
   end
   
-  def grade()
+  
+  def grade(student_name)
+    roster
+    binding.pry
+  end
 end
