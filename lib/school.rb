@@ -11,4 +11,4 @@ class School
   def add_student(student_name, level)
     if roster[level]==nil
      binding.pry
-  end
+
