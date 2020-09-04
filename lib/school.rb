@@ -14,8 +14,4 @@ if roster[level]==nil
 end
 end
  
- def school_name
-    @school_name
-    
-  end 
-end
+
