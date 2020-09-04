@@ -7,8 +7,7 @@ class School
   end
   
  def add_student(student_name, grade)
-@roster= {[grade:] [student_name]}
- hash[:a] = 'a'
+@roster[:grade]=student_name
  end
  
  def school_name
