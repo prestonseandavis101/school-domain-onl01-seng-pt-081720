@@ -18,4 +18,6 @@ class School
     roster
     #binding.pry
   end
+  
+  def grade()
 end
