@@ -12,4 +12,3 @@ class School
     if roster[level]==nil
      binding.pry
   end
-end
