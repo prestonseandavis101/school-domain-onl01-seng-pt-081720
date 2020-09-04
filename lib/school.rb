@@ -29,6 +29,7 @@ class School
     new_hash = {}
     roster.each do |grade, student_name|
     [student_name] = new_hash
+    binding.pry
     end
     new_hash
 end
