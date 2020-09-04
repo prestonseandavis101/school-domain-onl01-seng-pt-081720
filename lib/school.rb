@@ -16,5 +16,6 @@ class School
       roster[level] << student_name
       binding.pry
     end
+    roster
   end
 end
