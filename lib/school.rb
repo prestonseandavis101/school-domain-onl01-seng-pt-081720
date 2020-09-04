@@ -5,6 +5,8 @@ class School
   
   def school_name
     @school_name
+    
+    roster = {}
   end 
 end
 
