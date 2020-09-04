@@ -13,5 +13,3 @@ if roster[level]==nil
  binding.pry
 end
 end
- 
-
