@@ -28,7 +28,7 @@ class School
   def sort
     new_hash = {}
     roster.each do |grade, student_name|
-    [student_name] = new_hash
+    new_hash = [student_name]
     binding.pry
     end
     new_hash
