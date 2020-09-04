@@ -7,7 +7,7 @@ class School
   end
   
  def add_student(student_name, grade)
-   puts 
+
  end
  
  def school_name
