@@ -14,8 +14,8 @@ class School
       roster[level] = [student_name]
     else 
       roster[level] << student_name
-      binding.pry
     end
     roster
+    binding.pry
   end
 end
