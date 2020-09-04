@@ -8,4 +8,4 @@ class School
   end 
 end
 
-roster = {}
+
