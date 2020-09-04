@@ -24,4 +24,11 @@ class School
     roster[student_name]
     #binding.pry
   end
+  
+  def sort
+    new_hash = {}
+    roster.each do |grade, student_name|
+      
+    end
+    
 end
