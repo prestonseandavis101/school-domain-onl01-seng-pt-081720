@@ -1,3 +1,3 @@
 class School
-  initialize
+  def initialize(roster)
 end
