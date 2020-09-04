@@ -1,3 +1,3 @@
 class School
-  def initialize(roster)
+  def initialize(roster ={})
 end
