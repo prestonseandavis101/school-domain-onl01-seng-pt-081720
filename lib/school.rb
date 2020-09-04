@@ -21,7 +21,7 @@ class School
   
   
   def grade(student_name)
-    roster
-    #binding.pry
+    roster = student_name
+    binding.pry
   end
 end
