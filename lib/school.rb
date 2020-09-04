@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 class School
   
@@ -14,7 +14,7 @@ class School
       roster[level] = student_name
     else 
       roster[level] << student_name
-      binding.pry
+      #binding.pry
     end
     roster
   end
