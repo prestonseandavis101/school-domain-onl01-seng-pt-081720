@@ -8,6 +8,7 @@ class School
   
  def add_student(student_name, level)
 @roster[level]=[student_name]
+if 
  end
  
  def school_name
