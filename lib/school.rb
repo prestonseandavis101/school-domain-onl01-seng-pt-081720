@@ -32,4 +32,5 @@ class School
     binding.pry
     end
     new_hash
+  end
 end
