@@ -20,5 +20,3 @@ if roster[level]==nil
     
   end 
 end
-
-
